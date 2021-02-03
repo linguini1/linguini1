@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Matteo, a future computer engineer with a passion for automating, AI, and learning about the quantum computing 
-field! I love 60-80s pop and rock, learning new things, and Vans :)
+I'm Matteo (he/him), a future computer engineer with a passion for automating, AI, and learning about the quantum
+computing field! I love 60-80s pop and rock, learning new things, and Vans :)
 
 ### Working on 🧩
  - Completing Grade 12
@@ -27,16 +27,15 @@ field! I love 60-80s pop and rock, learning new things, and Vans :)
  - matteo.golin@gmail.com
  - [StackOverflow](https://stackexchange.com/users/20225296/linguini)
 
-### Pronouns 💬
- - He/Him
-
 ### Coding Languages 💾
  - Python
  - C++
  - C#
  - C
+ - HTML
+ - CSS
 
-### Languages 
+### Languages 💬
  - English 🇨🇦
  - French / Français 🇫🇷
  - Russian / Русский 🇷🇺
