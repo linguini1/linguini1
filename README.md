@@ -1,8 +1,6 @@
 ## Hey, what's up? ✌😶
 
 <!--
-**linguini1/linguini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Matteo (he/him), a future computer engineer with a passion for automating, AI, and learning about the quantum
-computing field! I love 60-80s pop and rock, learning new things, and Vans :)
+I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, AI, and 
+learning about the computing technology field! I love 60-80s pop and rock, learning new things, and travelling :)
 
 ### Working on 🧩
- - Completing Grade 12
- - University applications
- - Godot Engine game development
+ - University preparation
+ - "Alchemist" with AOBUT Studios
+ - Russian finals
 
 ### Reach me 📧
  - matteo.golin@gmail.com
@@ -30,10 +28,9 @@ computing field! I love 60-80s pop and rock, learning new things, and Vans :)
 ### Coding Languages 💾
  - Python
  - C++
- - C#
- - C
+ - GDScript
  - HTML
- - CSS
+ - CSS & SCSS
 
 ### Languages 💬
  - English 🇨🇦
