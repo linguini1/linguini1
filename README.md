@@ -19,7 +19,7 @@ learning about the computing technology field! I love 60-80s pop and rock, learn
 ### Working on 🧩
  - University preparation
  - "Alchemist" with AOBUT Studios
- - Russian finals
+ - Making the most of the summer
 
 ### Reach me 📧
  - matteo.golin@gmail.com
