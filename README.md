@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, AI, and 
-learning about the computing technology field! I love 60-80s pop and rock, learning new things, and travelling :)
+I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and learning about computing technology. I love
+rock and jazz, meeting new people and travelling :)
 
 ### Working on 🧩
- - University preparation
- - "Alchemist" with AOBUT Studios
- - Making the most of the summer
+ - Getting through the term
+ - Warehouse Management System from scratch
+ - Learning Flask
 
 ### Reach me 📧
  - matteo.golin@gmail.com
