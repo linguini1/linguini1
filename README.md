@@ -17,9 +17,10 @@ I'm Matteo (he/they), a first year computer systems engineer at Carleton with a 
 learning about the computing technology field! I love 60-80s pop and rock, learning new things, and travelling :)
 
 ### Working on 🧩
- - University preparation
- - "Alchemist" with AOBUT Studios
- - Russian finals
+ - Improving my wpm
+ - Learning stenography
+ - Pixel art
+ - WMS & a LinkedIn resume scraper
 
 ### Reach me 📧
  - matteo.golin@gmail.com
