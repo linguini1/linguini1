@@ -17,7 +17,6 @@ I'm Matteo (he/they), a first year computer systems engineer at Carleton with a 
 rock and jazz, meeting new people and travelling :)
 
 ### Working on 🧩
-<<<<<<< HEAD
  - Improving my wpm
  - Learning stenography
  - Pixel art
