@@ -13,15 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and learning about computing technology. I love
-rock and jazz, meeting new people and travelling :)
+I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and
+learning about computing technology.
 
 ### Working on 🧩
  - Improving my wpm
- - Learning stenography
  - Pixel art
+ - Optimizing the hell out of logic gate schematics
+ - NFTs!
  - WMS using Flask
  - A LinkedIn resume scraper
+
+### Learning 🌱
+- The crypto world
+- Tail recursion
+- A second semester's worth of engineering courses
 
 ### Reach me 📧
  - matteo.golin@gmail.com
