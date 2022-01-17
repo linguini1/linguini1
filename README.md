@@ -1,7 +1,4 @@
 # Hey, what's up? ✌😶
-
----
-
 ### I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and
 learning about computing technology.
 
@@ -13,18 +10,21 @@ learning about computing technology.
 - Improving my wpm
 - LogiSite
 - WMS using Flask
----
+
 ## Learning 🌱
 - The crypto world
 - Django & React
 - A second semester's worth of engineering courses
----
+
 ## Reach me
+
 [<img align="left" style="padding-right:10px" alt="Email" width="50px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1642445106~hmac=d8d203af30bacb5b5ef6873bce2d6f7f" />][email]
 [<img align="left" style="padding-right:10px" alt="LinkedIn" width="50px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1642445084~hmac=bcf7af5f8a8c02016c82ed7557313d13" />][linkedin]
 [<img align="left" style="padding-right:10px" alt="StackOverflow" width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />][stackoverflow]
 <br /><br />
+
 ---
+
 ## Languages and Tools
 <!--Languages-->
 <img align="left" style="padding-right:10px" alt="Python" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
@@ -43,6 +43,7 @@ learning about computing technology.
 
 ## Languages 💬
 ###Yeah I can switch между языки, я думаю что c'est un talent cool, non?
+
 <img align="left" style="padding-right:10px" alt="English" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330442.png" />
 <img align="left" style="padding-right:10px" alt="French" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330490.png" />
 <img align="left" style="padding-right:10px" alt="Russian" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330437.png" />
