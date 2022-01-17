@@ -32,7 +32,7 @@ learning about computing technology.
 <img align="left" style="padding-right:10px" alt="HTML" width="50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 <img align="left" style="padding-right:10px" alt="CSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" style="padding-right:10px" alt="SCSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
-<br /><br />
+<br /><br /><br />
 
 <!--Tools-->
 <img align="left" style="padding-right:10px" alt="GitHub" width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
