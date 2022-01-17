@@ -43,7 +43,7 @@ learning about computing technology.
 
 ## Languages 💬
 
-###Yeah I can switch между языки, я думаю что c'est un talent cool, non?
+<h3>Yeah I can switch между языки, я думаю что c'est un talent cool, non?<h3/>
 
 
 <img align="left" style="padding-right:10px" alt="English" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330442.png" />
