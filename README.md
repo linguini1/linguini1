@@ -1,46 +1,56 @@
-## Hey, what's up? ✌😶
+# Hey, what's up? ✌😶
 
-<!--
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and
+### I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and
 learning about computing technology.
 
-### Working on 🧩
- - Improving my wpm
- - Pixel art
- - Optimizing the hell out of logic gate schematics
- - NFTs!
- - WMS using Flask
- - A LinkedIn resume scraper
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linguini1&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-### Learning 🌱
+---
+## Working on 🧩
+- NFTs!
+- Improving my wpm
+- LogiSite
+- WMS using Flask
+---
+## Learning 🌱
 - The crypto world
-- Tail recursion
+- Django & React
 - A second semester's worth of engineering courses
+---
+## Reach me
+[<img align="left" style="padding-right:10px" alt="Email" width="50px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1642445106~hmac=d8d203af30bacb5b5ef6873bce2d6f7f" />][email]
+[<img align="left" style="padding-right:10px" alt="LinkedIn" width="50px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1642445084~hmac=bcf7af5f8a8c02016c82ed7557313d13" />][linkedin]
+[<img align="left" style="padding-right:10px" alt="StackOverflow" width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />][stackoverflow]
+<br /><br />
+---
+## Languages and Tools
+<!--Languages-->
+<img align="left" style="padding-right:10px" alt="Python" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+<img align="left" style="padding-right:10px" alt="C++" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+<img align="left" style="padding-right:10px" alt="HTML" width="50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
+<img align="left" style="padding-right:10px" alt="CSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img align="left" style="padding-right:10px" alt="SCSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
+<br /><br />
 
-### Reach me 📧
- - matteo.golin@gmail.com
- - [StackOverflow](https://stackexchange.com/users/20225296/linguini)
+<!--Tools-->
+<img align="left" style="padding-right:10px" alt="GitHub" width="50px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1642445984~hmac=c3d0fe7fc77fe0757c0fe315668c1ea0" />
+<img align="left" style="padding-right:10px" alt="Flask" width="60px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
+<br /><br />
 
-### Coding Languages 💾
- - Python
- - C++
- - GDScript
- - HTML
- - CSS & SCSS
+---
 
-### Languages 💬
- - English 🇨🇦
- - French / Français 🇫🇷
- - Russian / Русский 🇷🇺
+## Languages 💬
+###Yeah I can switch между языки, я думаю что c'est un talent cool, non?
+<img align="left" style="padding-right:10px" alt="English" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330442.png" />
+<img align="left" style="padding-right:10px" alt="French" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330490.png" />
+<img align="left" style="padding-right:10px" alt="Russian" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330437.png" />
+<br />
+
+
+
+<!--Links-->
+[stackoverflow]: https://stackexchange.com/users/20225296/linguini
+[linkedin]: https://www.linkedin.com/in/matteo-golin-94118021b/
+[email]: matteo.golin@gmail.com
