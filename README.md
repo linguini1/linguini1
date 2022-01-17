@@ -18,8 +18,8 @@ learning about computing technology.
 
 ## Reach me
 
-[<img align="left" style="padding-right:10px" alt="Email" width="50px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1642445106~hmac=d8d203af30bacb5b5ef6873bce2d6f7f" />][email]
-[<img align="left" style="padding-right:10px" alt="LinkedIn" width="50px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1642445084~hmac=bcf7af5f8a8c02016c82ed7557313d13" />][linkedin]
+[<img align="left" style="padding-right:10px" alt="Email" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" />][email]
+[<img align="left" style="padding-right:10px" alt="LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" style="padding-right:10px" alt="StackOverflow" width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />][stackoverflow]
 <br /><br />
 
@@ -35,7 +35,7 @@ learning about computing technology.
 <br /><br />
 
 <!--Tools-->
-<img align="left" style="padding-right:10px" alt="GitHub" width="50px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1642445984~hmac=c3d0fe7fc77fe0757c0fe315668c1ea0" />
+<img align="left" style="padding-right:10px" alt="GitHub" width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" style="padding-right:10px" alt="Flask" width="60px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
 <br /><br />
 
