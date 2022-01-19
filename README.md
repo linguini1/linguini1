@@ -1,6 +1,5 @@
 # Hey, what's up? ✌😶
-### I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and
-learning about computing technology.
+### I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and learning about computing technology.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linguini1&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
