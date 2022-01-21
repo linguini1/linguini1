@@ -7,15 +7,14 @@
 ## Working on 🧩
 - NFTs!
 - Improving my wpm
-- LogiSite
-- WMS using Flask
+- LogiSite using Django
 
 ## Learning 🌱
 - The crypto world
 - Django & React
 - A second semester's worth of engineering courses
 
-## Reach me
+## Reach Me
 
 [<img align="left" style="padding-right:10px" alt="Email" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" />][email]
 [<img align="left" style="padding-right:10px" alt="LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
