@@ -5,14 +5,14 @@
 
 ---
 ## Working on 🧩
-- NFTs!
+- [Cypher](https://github.com/linguini1/cypher)
+- Automatic invoicing with [Invoicer](https://github.com/linguini1/invoicer)
 - Improving my wpm
-- LogiSite using Django
 
 ## Learning 🌱
-- The crypto world
 - Django & React
-- A second semester's worth of engineering courses
+- Plugin architecture
+- Studying for finals
 
 ## Reach Me
 
