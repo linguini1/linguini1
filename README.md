@@ -6,13 +6,13 @@
 ---
 ## Working on 🧩
 - [Cypher](https://github.com/linguini1/cypher)
-- Automatic invoicing with [Invoicer](https://github.com/linguini1/invoicer)
-- Improving my wpm
+- [Conway's Game Of Life](https://github.com/linguini1/conway)
+- Setting up a new computer
 
 ## Learning 🌱
 - Django & React
-- Plugin architecture
-- Studying for finals
+- C
+- Italian
 
 ## Reach Me
 
