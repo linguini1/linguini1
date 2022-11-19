@@ -5,14 +5,14 @@
 
 ---
 ## Working on 🧩
-- [Cypher](https://github.com/linguini1/cypher)
-- [Conway's Game Of Life](https://github.com/linguini1/conway)
-- Setting up a new computer
+- [CUInSpace's new ground station UI](https://github.com/CarletonURocketry/ground-station-ui)
+- Finishing up the fall semester
+- Preparing for the [Ontario Engineering Programming Competition](https://www.oec2022.ca/)
 
 ## Learning 🌱
-- Django & React
 - C
 - Italian
+- Logic hardware design
 
 ## Reach Me
 
