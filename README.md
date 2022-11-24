@@ -1,15 +1,19 @@
 # Hey, what's up? ✌😶
-### I'm Matteo (he/they), a first year computer systems engineer at Carleton with a passion for automating, design, and learning about computing technology.
+
+### I'm Matteo (he/they), a computer systems engineering student at Carleton with a passion for automating, design, and learning about computing technology.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linguini1&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 ## Working on 🧩
+
 - [CUInSpace's new ground station UI](https://github.com/CarletonURocketry/ground-station-ui)
 - Finishing up the fall semester
 - Preparing for the [Ontario Engineering Programming Competition](https://www.oec2022.ca/)
 
 ## Learning 🌱
+
 - C
 - Italian
 - Logic hardware design
@@ -24,6 +28,7 @@
 ---
 
 ## Languages and Tools
+
 <!--Languages-->
 <img align="left" style="padding-right:10px" alt="Python" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" style="padding-right:10px" alt="C++" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
@@ -46,15 +51,13 @@
 
 <h3>Yeah I can switch между языки, я думаю что c'est un talent cool, non?<h3/>
 
-
 <img align="left" style="padding-right:10px" alt="English" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330442.png" />
 <img align="left" style="padding-right:10px" alt="French" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330490.png" />
 <img align="left" style="padding-right:10px" alt="Russian" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330437.png" />
 <br />
 
-
-
 <!--Links-->
+
 [stackoverflow]: https://stackexchange.com/users/20225296/linguini
 [linkedin]: https://www.linkedin.com/in/matteo-golin-94118021b/
 [email]: matteo.golin@gmail.com
