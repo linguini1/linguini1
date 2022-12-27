@@ -1,22 +1,24 @@
 # Hey, what's up? ✌😶
 
-### I'm Matteo (he/they), a computer systems engineering student at Carleton with a passion for automating, design, and learning about computing technology.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linguini1&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+I'm Matteo (he/they), a computer systems engineering student at Carleton with a passion for automating, design, and
+learning about computing technology. I am intrigued by the intersection of hardware and software, as well as the immense
+possibility for designing complex and highly capable systems using layers of abstraction.
 
 ---
 
 ## Working on 🧩
 
 - [CUInSpace's new ground station UI](https://github.com/CarletonURocketry/ground-station-ui)
-- Finishing up the fall semester
+- My winter semester
 - Preparing for the [Ontario Engineering Programming Competition](https://www.oec2022.ca/)
+- Participating in as many Hackathons as possible!
 
 ## Learning 🌱
 
 - C
 - Italian
-- Logic hardware design
+- Hardware design
+- Computer organization and Architecture
 
 ## Reach Me
 
@@ -27,15 +29,15 @@
 
 ---
 
-## Languages and Tools
+## Programming Languages and Tools
 
 <!--Languages-->
 <img align="left" style="padding-right:10px" alt="Python" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+<img align="left" style="padding-right:10px" alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" />
 <img align="left" style="padding-right:10px" alt="C++" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" style="padding-right:10px" alt="HTML" width="50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 <img align="left" style="padding-right:10px" alt="CSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" style="padding-right:10px" alt="SCSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
-<img align="left" style="padding-right:10px" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" style="padding-right:10px" alt="Js" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <br /><br /><br />
 
@@ -43,14 +45,12 @@
 <img align="left" style="padding-right:10px" alt="GitHub" width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" style="padding-right:10px" alt="Flask" width="60px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
 <img align="left" style="padding-right:10px" alt="Django" width="57px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
+<img align="left" style="padding-right:10px" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <br /><br />
 
 ---
 
-## Languages 💬
-
-<h3>Yeah I can switch между языки, я думаю что c'est un talent cool, non?<h3/>
-
+## Actual Languages 💬
 <img align="left" style="padding-right:10px" alt="English" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330442.png" />
 <img align="left" style="padding-right:10px" alt="French" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330490.png" />
 <img align="left" style="padding-right:10px" alt="Russian" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330437.png" />
