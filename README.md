@@ -18,7 +18,8 @@ possibility for designing complex and highly capable systems using layers of abs
 - C
 - Italian
 - Hardware design
-- Computer organization and Architecture
+- Computer organization and architecture
+- Software design patterns
 
 ## Reach Me
 
