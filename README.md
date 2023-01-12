@@ -43,8 +43,8 @@ possibility for designing complex and highly capable systems using layers of abs
 <br /><br /><br />
 
 <!--Tools-->
-<img align="left" style="padding-right:10px" alt="GitHub" width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img align="left" style="padding-right:10px" alt="Flask" width="60px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
+<img align="left" style="padding-right:10px;filter:invert(1);-webkit-filter:invert(1);" alt="GitHub" width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img align="left" style="padding-right:10px;filter:invert(1);-webkit-filter:invert(1);" alt="Flask" width="60px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
 <img align="left" style="padding-right:10px" alt="Django" width="57px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" style="padding-right:10px" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <br /><br />
