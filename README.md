@@ -8,10 +8,10 @@ possibility for designing complex and highly capable systems using layers of abs
 
 ## Working on 🧩
 
-- [CUInSpace's new ground station UI](https://github.com/CarletonURocketry/ground-station-ui)
-- My winter semester
-- Preparing for the [Ontario Engineering Programming Competition](https://www.oec2022.ca/)
-- Participating in as many Hackathons as possible!
+- [PCB design for CUInSpace's ground station board](https://github.com/linguini1/ground-station-revb)
+- The final stretch of the winter semester
+- Classification of hate speech in social media posts for UNESCO at [Carleton's Innovation Hub](https://carleton.ca/innovationhub/)
+- [The Borealis AI program](https://www.borealisai.com/lets-solve-it/)
 
 ## Learning 🌱
 
@@ -52,6 +52,7 @@ possibility for designing complex and highly capable systems using layers of abs
 ---
 
 ## Actual Languages 💬
+
 <img align="left" style="padding-right:10px" alt="English" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330442.png" />
 <img align="left" style="padding-right:10px" alt="French" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330490.png" />
 <img align="left" style="padding-right:10px" alt="Russian" width="50px" src="https://cdn-icons-png.flaticon.com/512/330/330437.png" />
