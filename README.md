@@ -1,25 +1,22 @@
 # Hey, what's up? ✌😶
 
-I'm Matteo (he/they), a computer systems engineering student at Carleton with a passion for automating, design, and
-learning about computing technology. I am intrigued by the intersection of hardware and software, as well as the immense
+I'm Matteo (he/they), a computer systems engineering student at Carleton with a passion for automation, design, and
+computing technology. I am passionate about the intersection of hardware and software, as well as the immense
 possibility for designing complex and highly capable systems using layers of abstraction.
 
 ---
 
 ## Working on 🧩
 
-- [PCB design for CUInSpace's ground station board](https://github.com/linguini1/ground-station-revb)
-- The final stretch of the winter semester
-- Classification of hate speech in social media posts for UNESCO at [Carleton's Innovation Hub](https://carleton.ca/innovationhub/)
-- [The Borealis AI program](https://www.borealisai.com/lets-solve-it/)
+- 5G network test development at DELL
+- Prepping for Spaceport and [getting ground station development ready for next year](https://github.com/CarletonURocketry/ground-station)
+- [PCB fabrication for the next generation ground station](https://github.com/linguini1/ground-station-revb)
 
 ## Learning 🌱
 
-- C
+- CI/CD
+- Networking
 - Italian
-- Hardware design
-- Computer organization and architecture
-- Software design patterns
 
 ## Reach Me
 
@@ -43,6 +40,7 @@ possibility for designing complex and highly capable systems using layers of abs
 <br /><br /><br />
 
 <!--Tools-->
+
 <img align="left" style="padding-right:10px;filter:invert(1);-webkit-filter:invert(1);" alt="GitHub" width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" style="padding-right:10px;filter:invert(1);-webkit-filter:invert(1);" alt="Flask" width="60px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
 <img align="left" style="padding-right:10px" alt="Django" width="57px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
