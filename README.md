@@ -60,4 +60,4 @@ possibility for designing complex and highly capable systems using layers of abs
 
 [stackoverflow]: https://stackexchange.com/users/20225296/linguini
 [linkedin]: https://www.linkedin.com/in/matteo-golin-94118021b/
-[email]: matteo.golin@gmail.com
+[email]: mailto:matteo.golin@gmail.com
