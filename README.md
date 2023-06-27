@@ -32,6 +32,7 @@ possibility for designing complex and highly capable systems using layers of abs
 <!--Languages-->
 <img align="left" style="padding-right:10px" alt="Python" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" style="padding-right:10px" alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" />
+<img align="left" style="padding-right:10px" alt="Java" width="50px" src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" />
 <img align="left" style="padding-right:10px" alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" style="padding-right:10px" alt="HTML" width="50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 <img align="left" style="padding-right:10px" alt="CSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
