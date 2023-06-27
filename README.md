@@ -9,13 +9,13 @@ possibility for designing complex and highly capable systems using layers of abs
 ## Working on 🧩
 
 - 5G network test development at DELL
-- Prepping for Spaceport and [getting ground station development ready for next year](https://github.com/CarletonURocketry/ground-station)
-- [PCB fabrication for the next generation ground station](https://github.com/linguini1/ground-station-revb)
+- Prepping for Launch Canada and [getting ground station development ready for next year](https://github.com/CarletonURocketry/ground-station)
+- [A custom assembler](https://github.com/linguini1/gol-16/tree/main/assembler) for my custom processor (based off of the 32 bit ARM processor)
 
 ## Learning 🌱
 
 - CI/CD
-- Networking
+- Hardware design/low-level software design
 - Italian
 
 ## Reach Me
@@ -32,11 +32,10 @@ possibility for designing complex and highly capable systems using layers of abs
 <!--Languages-->
 <img align="left" style="padding-right:10px" alt="Python" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" style="padding-right:10px" alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" />
-<img align="left" style="padding-right:10px" alt="C++" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+<img align="left" style="padding-right:10px" alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" style="padding-right:10px" alt="HTML" width="50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 <img align="left" style="padding-right:10px" alt="CSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" style="padding-right:10px" alt="SCSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
-<img align="left" style="padding-right:10px" alt="Js" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <br /><br /><br />
 
 <!--Tools-->
@@ -45,6 +44,7 @@ possibility for designing complex and highly capable systems using layers of abs
 <img align="left" style="padding-right:10px;filter:invert(1);-webkit-filter:invert(1);" alt="Flask" width="60px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
 <img align="left" style="padding-right:10px" alt="Django" width="57px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" style="padding-right:10px" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+<img align="left" style="padding-right:10px" alt="Robot" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
 <br /><br />
 
 ---
