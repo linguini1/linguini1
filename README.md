@@ -7,38 +7,19 @@ possibility for designing complex and highly capable systems using layers of abs
 ## Programming Languages and Tools
 
 <!--Languages-->
-<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
-<img alt="C" src="https://img.shields.io/badge/C-00599C?&logo=c&style=for-the-badge" />
-<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-f7df1e?style=for-the-badge&logo=openjdk&logoColor=black">
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=black">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-46a2f1?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="SCSS" src="https://img.shields.io/badge/SCSS-c76494?style=for-the-badge&logo=sass&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /> <img alt="C" src="https://img.shields.io/badge/C-00599C?&logo=c&style=for-the-badge" /> <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-f7df1e?style=for-the-badge&logo=openjdk&logoColor=black"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=black"> <img alt="HTML" src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-46a2f1?style=for-the-badge&logo=css3&logoColor=white"> <img alt="SCSS" src="https://img.shields.io/badge/SCSS-c76494?style=for-the-badge&logo=sass&logoColor=white">
 <br />
 
 <!--Frameworks-->
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img alt="Robot" src="https://img.shields.io/badge/robot-000000?style=for-the-badge&logo=robotframework&logoColor=white">
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img alt="Robot" src="https://img.shields.io/badge/robot-000000?style=for-the-badge&logo=robotframework&logoColor=white"> <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
 <br />
 
 <!--Tools-->
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
-<img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-<img alt="Vim" src="https://img.shields.io/badge/-Vim-019833?&logo=Vim&style=for-the-badge" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /> <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> <img alt="Vim" src="https://img.shields.io/badge/-Vim-019833?&logo=Vim&style=for-the-badge" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" />
 <br />
 
 <!--OS-->
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-<img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> <img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 ## Reach Me
 
