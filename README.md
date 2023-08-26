@@ -59,5 +59,5 @@ Yes, I'm a Neovim user. No, I don't hate Emacs or VSCode. If you want to take a 
 [cuinspace]: https://github.com/CarletonURocketry/ground-station
 [gs-software]: https://github.com/CarletonURocketry/ground-station
 [gs-ui]: https://github.com/CarletonURocketry/ground-station-ui
-[gs-board]: https://github.com/CarletonURocketry/avionics-hardware
+[gs-board]: https://github.com/CarletonURocketry/avionics-hardware/tree/master/2022-2023%20PCBs%20Work%20in%20Progress
 [av-software]: https://github.com/CarletonURocketry/avionics-software
