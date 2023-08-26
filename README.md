@@ -1,8 +1,14 @@
 # Hey, what's up? ✌😶
 
-I'm Matteo, a computer systems engineering student at Carleton with a passion for automation, design, and
-computing technology. I am passionate about the intersection of hardware and software, as well as the immense
-possibility for designing complex and highly capable systems using layers of abstraction.
+I'm Matteo, and I'm a computer systems engineering student at Carleton University in Canada. I'm passionate about
+software design and development, as well as its intersection with hardware design.
+
+I am a part of Carleton's rocketry design team, [CUInSpace][cuinspace], where I am leading a team of engineering
+students in the development of a ground station (check out our [hardware][gs-board], [ground station][gs-software],
+[dashboard][gs-ui] and our [embedded telemetry system][av-software]).
+
+Yes, I'm a Neovim user. No, I don't hate Emacs or VSCode. If you want to take a look at my config, you can find it
+[here][nvim].
 
 ## Programming Languages and Tools
 
@@ -27,9 +33,9 @@ possibility for designing complex and highly capable systems using layers of abs
 
 ## Working on 🧩
 
-- 5G network test development at DELL
-- [A custom assembler](https://github.com/linguini1/gol-16/tree/main/assembler) for my custom processor (based off of the 32 bit ARM processor)
-- Prepping for Launch Canada and [getting ground station development ready for next year](https://github.com/CarletonURocketry/ground-station)
+- [pulse.nvim][pulse]
+- [A custom assembler][gol-16] for my custom processor (based off of the 32 bit ARM processor)
+- [Getting ground station development ready for next year][gs-software]
 
 ## Learning 🌱
 
@@ -47,6 +53,11 @@ possibility for designing complex and highly capable systems using layers of abs
 
 <!--Links-->
 
-[stackoverflow]: https://stackexchange.com/users/20225296/linguini
-[linkedin]: https://www.linkedin.com/in/matteo-golin-94118021b/
-[email]: mailto:matteo.golin@gmail.com
+[nvim]: https://github.com/linguini1/nvim
+[pulse]: https://github.com/linguini1/pulse.nvim
+[gol-16]: https://github.com/linguini1/gol-16/tree/main/assembler
+[cuinspace]: https://github.com/CarletonURocketry/ground-station
+[gs-software]: https://github.com/CarletonURocketry/ground-station
+[gs-ui]: https://github.com/CarletonURocketry/ground-station-ui
+[gs-board]: https://github.com/CarletonURocketry/avionics-hardware
+[av-software]: https://github.com/CarletonURocketry/avionics-software
