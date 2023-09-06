@@ -1,5 +1,7 @@
 # Hey, what's up? ✌😶
 
+![Star Count][star-count]
+
 I'm Matteo, and I'm a computer systems engineering student at Carleton University in Canada. I'm passionate about
 software design and development, as well as its intersection with hardware design.
 
@@ -61,3 +63,4 @@ Yes, I'm a Neovim user. No, I don't hate Emacs or VSCode. If you want to take a 
 [gs-ui]: https://github.com/CarletonURocketry/ground-station-ui
 [gs-board]: https://github.com/CarletonURocketry/avionics-hardware/tree/master/2022-2023%20PCBs%20Work%20in%20Progress
 [av-software]: https://github.com/CarletonURocketry/avionics-software
+[star-count]: https://img.shields.io/badge/dynamic/json?logo=github&logoColor=white&label=Stars&labelColor=black&color=gold&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/linguini1
