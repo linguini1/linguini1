@@ -9,8 +9,6 @@ I am a part of Carleton's rocketry design team, [CUInSpace][cuinspace], where I 
 students in the development of a ground station (check out our [hardware][gs-board], [ground station][gs-software],
 [dashboard][gs-ui] and our [embedded telemetry system][av-software]).
 
-Yes, I'm a Neovim user. If you want to take a look at my config, you can find it [here][nvim].
-
 ## Programming Languages and Tools
 
 <!--Languages-->
