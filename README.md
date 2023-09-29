@@ -55,7 +55,7 @@ students in the development of a ground station (check out our [hardware][gs-boa
 [nvim]: https://github.com/linguini1/nvim
 [pulse]: https://github.com/linguini1/pulse.nvim
 [gol-16]: https://github.com/linguini1/gol-16/tree/main/assembler
-[cuinspace]: https://github.com/CarletonURocketry/ground-station
+[cuinspace]: https://github.com/CarletonURocketry
 [gs-software]: https://github.com/CarletonURocketry/ground-station
 [gs-ui]: https://github.com/CarletonURocketry/ground-station-ui
 [gs-board]: https://github.com/CarletonURocketry/avionics-hardware/tree/master/2022-2023%20PCBs%20Work%20in%20Progress
