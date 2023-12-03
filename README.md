@@ -6,8 +6,8 @@ I'm Matteo, and I'm a computer systems engineering student at Carleton Universit
 software design and development, as well as its intersection with hardware design.
 
 I am a part of Carleton's rocketry design team, [CUInSpace][cuinspace], where I am leading a team of engineering
-students in the development of a ground station (check out our [hardware][gs-board], [ground station][gs-software],
-[dashboard][gs-ui] and our [embedded telemetry system][av-software]).
+students in the development of a [real-time telemetry system using the QNX RTOS][qnx-stack] (also check out our
+[hardware][gs-board], [ground station][gs-software] and [real-time dashboard][gs-ui]).
 
 ## Programming Languages and Tools
 
@@ -32,9 +32,9 @@ students in the development of a ground station (check out our [hardware][gs-boa
 
 ## Working on 🧩
 
+- [Reading sensor data from a student designed sensor board][fetcher]
+- [Developing real-time systems][qnx-stack]
 - [pulse.nvim][pulse]
-- [A custom assembler][gol-16] for my custom processor (based off of the 32 bit ARM processor)
-- [Getting ground station development ready for next year][gs-software]
 
 ## Learning 🌱
 
@@ -59,5 +59,6 @@ students in the development of a ground station (check out our [hardware][gs-boa
 [gs-software]: https://github.com/CarletonURocketry/ground-station
 [gs-ui]: https://github.com/CarletonURocketry/ground-station-ui
 [gs-board]: https://github.com/CarletonURocketry/avionics-hardware/tree/master/2022-2023%20PCBs%20Work%20in%20Progress
-[av-software]: https://github.com/CarletonURocketry/avionics-software
+[qnx-stack]: https://github.com/CarletonURocketry/qnx-stack
+[fetcher]: https://github.com/CarletonURocketry/fetcher
 [star-count]: https://img.shields.io/badge/dynamic/json?logo=github&logoColor=white&label=Stars&labelColor=black&color=gold&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/linguini1
