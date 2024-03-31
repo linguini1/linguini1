@@ -11,7 +11,7 @@ students in the development of a [real-time telemetry system using the QNX RTOS]
 
 ## Programming Languages and Tools
 
-!--Languages-->
+<!--Languages-->
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /> <img alt="C" src="https://img.shields.io/badge/C-00599C?&logo=c&style=for-the-badge" /> <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-f7df1e?style=for-the-badge&logo=openjdk&logoColor=black"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=black"> <img alt="HTML" src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-46a2f1?style=for-the-badge&logo=css3&logoColor=white"> <img alt="SCSS" src="https://img.shields.io/badge/SCSS-c76494?style=for-the-badge&logo=sass&logoColor=white">
 <br />
