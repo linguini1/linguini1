@@ -2,12 +2,12 @@
 
 ![Star Count][star-count]
 
-I'm Matteo, and I'm a computer systems engineering student at Carleton University in Canada. I'm passionate about
-software design and development, as well as its intersection with hardware design.
+I'm Matteo, and I'm a computer systems engineering student at Carleton University, Canada. I'm passionate about
+embedded development and the interaction between hardware and software.
 
 I am a part of Carleton's rocketry design team, [CUInSpace][cuinspace], where I am leading a team of engineering
 students in the development of a [real-time telemetry system using the QNX RTOS][qnx-stack] (also check out our
-[hardware][gs-board], [ground station][gs-software] and [real-time dashboard][gs-ui]).
+[hardware][gs-board], [ground station controller][gs-software] and [real-time telemetry dashboard][gs-ui]).
 
 ## Programming Languages and Tools
 
@@ -32,14 +32,14 @@ students in the development of a [real-time telemetry system using the QNX RTOS]
 
 ## Working on 🧩
 
-- [Reading sensor data from a student designed sensor board][fetcher]
-- [Developing real-time systems][qnx-stack]
+- [Reading GPS data from a student designed sensor board][fetcher]
+- Planning out a drone build
 - [pulse.nvim][pulse]
 
 ## Learning 🌱
 
 - Rust
-- Hardware design/low-level software design
+- PCB design
 - Italian
 
 ## Spoken Languages
