@@ -6,8 +6,10 @@ I'm Matteo, and I'm a computer systems engineering student at Carleton Universit
 embedded development and the interaction between hardware and software.
 
 I am a part of Carleton's rocketry design team, [CUInSpace][cuinspace], where I am leading a team of engineering
-students in the development of a [real-time telemetry system using the QNX RTOS][qnx-stack] (also check out our
+students in the development of a [real-time telemetry system using the Apache NuttX RTOS][nx-telem] (also check out our
 [hardware][gs-board], [ground station controller][gs-software] and [real-time telemetry dashboard][gs-ui]).
+
+If you haven't heard of NuttX, [check it out!][nuttx]
 
 ## Programming Languages and Tools
 
@@ -59,6 +61,6 @@ students in the development of a [real-time telemetry system using the QNX RTOS]
 [gs-software]: https://github.com/CarletonURocketry/ground-station
 [gs-ui]: https://github.com/CarletonURocketry/ground-station-ui
 [gs-board]: https://github.com/CarletonURocketry/avionics-hardware/tree/master/2022-2023%20PCBs%20Work%20in%20Progress
-[qnx-stack]: https://github.com/CarletonURocketry/qnx-stack
-[fetcher]: https://github.com/CarletonURocketry/fetcher
+[nx-telem]: https://github.com/CarletonURocketry/inspace-nxtelem
+[nuttx]: https://nuttx.apache.org/
 [star-count]: https://img.shields.io/badge/dynamic/json?logo=github&logoColor=white&label=Stars&labelColor=black&color=gold&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/linguini1
