@@ -34,14 +34,14 @@ If you haven't heard of NuttX, [check it out!][nuttx]
 
 ## Working on 🧩
 
-- Initial design of CU InSpace's 2025 rocket
+- Firmware and manufacture of CU InSpace's 2025 rocket avionics systems & hybrid control systems
 - Experimenting with the [NuttX RTOS](https://github.com/apache/nuttx)
 - Planning out a drone build
 
 ## Learning 🌱
 
-- PCB design
 - Control systems
+- 3D design
 - Italian
 
 ## Spoken Languages
