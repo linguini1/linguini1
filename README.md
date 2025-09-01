@@ -2,14 +2,22 @@
 
 ![Star Count][star-count]
 
-I'm Matteo, and I'm a computer systems engineering student at Carleton University, Canada. I'm passionate about
-embedded development and the interaction between hardware and software.
+I'm Matteo, and I'm a MSc student in Electrical and Computer engineering (with an aeronautics focus) at the University
+of Waterloo in Canada. I hold a B.Eng in Computer systems from Carleton University, and I am an Apache NuttX committer.
 
-I am a part of Carleton's rocketry design team, [CUInSpace][cuinspace], where I am leading a team of engineering
-students in the development of a [real-time telemetry system using the Apache NuttX RTOS][nx-telem] (also check out our
-[hardware][gs-board], [ground station controller][gs-software] and [real-time telemetry dashboard][gs-ui]).
+I was a part of Carleton's rocketry design team, [CUInSpace][cuinspace], where I led a team of engineering students in
+the development of a [real-time telemetry system using the Apache NuttX RTOS][nx-telem]. I also helped design [InSpace's
+hybrid control system](https://github.com/CarletonURocketry/hysim) for remotely controlling the fill and ignition
+operations of the team's first hybrid rocket (nitrous and paraffin wax propulsion system). Alongside the ground systems,
+I designed the [critical flight system](https://github.com/CarletonURocketry/hybrid-valve-board) for keeping our ox tank
+vent valve shut during flight. Both systems performed successfully at the team's first hybrid launch at [Launch Canada
+2025](https://www.youtube.com/live/jSIWcusPTKk?si=B70fjPU5gJbYqTAo&t=29916)!
 
-If you haven't heard of NuttX, [check it out!][nuttx]
+Now I build my own rockets and flight computer systems, my latest on being my L1 rocket
+["Albie"](https://www.youtube.com/live/vYmQ0Gm4YIk?si=gbhsF1bJXzTjneUZ&t=34915) and its flight computer,
+[Pygmy](https://github.com/linguini1/pygmy)!
+
+If you haven't heard of NuttX, [check it out][nuttx]!
 
 ## Programming Languages and Tools
 
@@ -34,14 +42,15 @@ If you haven't heard of NuttX, [check it out!][nuttx]
 
 ## Working on 🧩
 
-- Firmware and manufacture of CU InSpace's 2025 rocket avionics systems & hybrid control systems
-- Experimenting with the [NuttX RTOS](https://github.com/apache/nuttx)
+- Rocket flight computers
+- Raspberry Pi 4B support for the [Apache NuttX RTOS][nuttx]
+- Improving the user experience of [Apache NuttX][nuttx]
 - Planning out a drone build
 
 ## Learning 🌱
 
 - Control systems
-- 3D design
+- CAD & 3D printing
 - Italian
 
 ## Spoken Languages
